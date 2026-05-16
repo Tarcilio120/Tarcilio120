@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Na programação, eu gosto muito de criar sistemas completos e organizados. Tenho interesse em desenvolvimento web com PHP, Java, JavaScript, HTML e CSS, além de gostar de arquitetura de software como MVC e Clean Architecture.<br><br>Também tenho interesse em:<br><br>* Backend e APIs.<br>* Estrutura profissional de projetos.<br>* Automação com Python.<br>* Machine Learning.<br>* Sistemas empresariais e startups.<br><br>As minhas principais habilidades hoje são:<br><br>* Organização de sistemas e pastas.<br>* Pensamento lógico.<br>* Facilidade para entender arquitetura de software.<br>* Curiosidade para aprender tecnologias novas.<br>* Capacidade de transformar ideias em projetos reais.<br>
+Na programação, eu gosto muito de criar sistemas completos e organizados. Tenho interesse em desenvolvimento web com PHP, Java, JavaScript, HTML e CSS, além de gostar de arquitetura de software como MVC e Clean Architecture.<br><br>Também tenho interesse em:<br><br>* Backend e APIs.<br>* Estrutura profissional de projetos.<br>* Automação com Python.<br>* Machine Learning.<br>* Sistemas empresariais e startups.<br>* Golang (Go).<br><br>As minhas principais habilidades hoje são:<br><br>* Organização de sistemas e pastas.<br>* Pensamento lógico.<br>* Facilidade para entender arquitetura de software.<br>* Curiosidade para aprender tecnologias novas.<br>* Capacidade de transformar ideias em projetos reais.<br>
+
 
 
 ## 🌐 Socials:
